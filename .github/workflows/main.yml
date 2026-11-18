@@ -7,7 +7,7 @@ on:
         required: true
         type: string
 env:
-  RDP_PASSWORD: "12345678#"
+  RDP_PASSWORD: "Nexa2026#Safe"
 
 jobs:
   rdp:
